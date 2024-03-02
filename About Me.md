@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on Data Science Projects. One is working with Spotify Stock Data and a Music Recommender <br>I'm currently learning more about Data Science, Python, and Machine Learning Models.<br>
+I'm currently working on Data Science Projects. One is working with Spotify Stock Data and a Music Recommender <br>
+I'm currently learning more about Data Science, Python, and Machine Learning Models.<br>
 
 
 ## 🌐 Socials:
